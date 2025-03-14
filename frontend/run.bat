@@ -2,7 +2,6 @@
 title En-Nilam Project Execution
 echo Starting En-Nilam services...
 echo.
-
 :: Navigate to en-nilam-contracts and start Hardhat node
 cd /d D:\React\en-nilam-contracts
 start cmd /k "npx hardhat node"
